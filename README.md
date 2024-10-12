@@ -11,12 +11,14 @@ Neste curso, criei uma página web do zero, aplicando conceitos fundamentais de 
 - **CSS e Classes**: Aplicação de estilos com **CSS** e uso de classes para uma estilização mais eficiente e reutilizável.
 - **Posicionamento com Flexbox**: Estudo e implementação do **Flexbox** para posicionar e alinhar elementos na página de forma prática.
 - **Estilização**: Aprendi a aplicar efeitos de CSS, como alteração de cores, arredondamento de bordas, importação de fontes, além de como estilizar textos e ícones.
+- **Design com Figma**: Utilização do Figma para prototipar e planejar o design da página antes da implementação, garantindo uma interface agradável e funcional.
 
 ## Tecnologias Utilizadas
 
 - HTML
 - CSS (Flexbox)
 - VS Code
+- Figma
 
 ## Aprendizados
 
@@ -26,6 +28,7 @@ Além de criar uma página web, o curso reforçou a importância de:
 - Aplicar **boas práticas de HTML semântico** para tornar o código mais acessível e organizado.
 - Usar **Flexbox** e outras técnicas de **CSS** para posicionar elementos com eficiência.
 - Estilizar elementos com foco em usabilidade e design, alterando fontes, cores e layouts.
+- A importância do **design prototipado** utilizando ferramentas como o Figma para visualização e planejamento do projeto.
 
 ## Conclusão
 
