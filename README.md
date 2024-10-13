@@ -39,11 +39,6 @@ Além de criar uma página web, o curso reforçou a importância de:
 - 🎨 Estilizar elementos com foco em usabilidade e design, alterando fontes, cores e layouts.
 - 🖼️ A importância do **design prototipado** utilizando ferramentas como o Figma para visualização e planejamento do projeto.
 
-## 🚀 Conclusão
-
-Este projeto foi uma ótima oportunidade para colocar em prática os fundamentos de **HTML e CSS**, ajudando a construir uma base sólida para o desenvolvimento web. Ao aplicar essas técnicas, posso criar páginas responsivas e bem estruturadas. 🌐
-
-
 ## 📜 Certificados
 
 Aqui estão os certificados conquistados durante os cursos:
@@ -56,6 +51,10 @@ Aqui estão os certificados conquistados durante os cursos:
     <img src="https://github.com/user-attachments/assets/de5df805-c506-4191-9900-62442d959ba9" alt="Certificado 2" width="400px">
   </a>
 </div>
+
+## 🚀 Conclusão
+
+Este projeto foi uma ótima oportunidade para colocar em prática os fundamentos de **HTML e CSS**, ajudando a construir uma base sólida para o desenvolvimento web. Ao aplicar essas técnicas, posso criar páginas responsivas e bem estruturadas. 🌐
 
 
 
