@@ -43,8 +43,16 @@ Além de criar uma página web, o curso reforçou a importância de:
 
 Este projeto foi uma ótima oportunidade para colocar em prática os fundamentos de **HTML e CSS**, ajudando a construir uma base sólida para o desenvolvimento web. Ao aplicar essas técnicas, posso criar páginas responsivas e bem estruturadas. 🌐
 
-[![image](https://github.com/user-attachments/assets/30c73936-8435-41c3-a2d1-df3696029c99)](https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-ambiente-arquivos-tags/certificate)
-[![image](https://github.com/user-attachments/assets/de5df805-c506-4191-9900-62442d959ba9)](https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-classes-posicionamento-flexbox/certificate)
+<div align="center">
+  <a href="https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-ambiente-arquivos-tags/certificate">
+    <img src="https://github.com/user-attachments/assets/30c73936-8435-41c3-a2d1-df3696029c99" alt="Certificado 1">
+  </a>
+  <br>
+  <a href="https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-classes-posicionamento-flexbox/certificate">
+    <img src="https://github.com/user-attachments/assets/de5df805-c506-4191-9900-62442d959ba9" alt="Certificado 2">
+  </a>
+</div>
+
 
 
 
