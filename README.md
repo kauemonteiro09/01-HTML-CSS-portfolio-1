@@ -52,9 +52,7 @@ Aqui estão alguns dos meus certificados conquistados durante os cursos na **Alu
   <a href="https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-ambiente-arquivos-tags/certificate">
     <img src="https://github.com/user-attachments/assets/30c73936-8435-41c3-a2d1-df3696029c99" alt="Certificado 1" width="300px">
   </a>
-  <br>
- <br>
-  <a href="https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-classes-posicionamento-flexbox/certificate">
+   <a href="https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-classes-posicionamento-flexbox/certificate">
     <img src="https://github.com/user-attachments/assets/de5df805-c506-4191-9900-62442d959ba9" alt="Certificado 2" width="300px">
   </a>
 </div>
