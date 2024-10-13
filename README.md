@@ -46,7 +46,7 @@ Este projeto foi uma ótima oportunidade para colocar em prática os fundamentos
 
 ## 📜 Certificados
 
-Aqui estão alguns dos meus certificados conquistados durante os cursos na **Alura**:
+Aqui estão os certificados conquistados durante os cursos:
 
 <div align="letf">
   <a href="https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-ambiente-arquivos-tags/certificate">
