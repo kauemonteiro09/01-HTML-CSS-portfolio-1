@@ -3,7 +3,7 @@
 Este repositório contém um projeto desenvolvido durante o curso de **HTML e CSS** da **Alura** 💻, que foca em ambientes de desenvolvimento, estrutura de arquivos, tags HTML, classes CSS, posicionamento e **Flexbox**. O curso aborda desde a instalação de ferramentas até boas práticas no desenvolvimento de páginas web.
 
 
-![image](https://github.com/user-attachments/assets/3fbb180d-1434-4d77-b553-2fd36c947b61)
+[![image](https://github.com/user-attachments/assets/3fbb180d-1434-4d77-b553-2fd36c947b61)](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)
 
 
 ## 🛠️ Sobre o Projeto
