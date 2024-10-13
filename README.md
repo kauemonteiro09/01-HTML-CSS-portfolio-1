@@ -5,6 +5,9 @@ Este repositório contém um projeto desenvolvido durante o curso de **HTML e CS
 
 [![image](https://github.com/user-attachments/assets/3fbb180d-1434-4d77-b553-2fd36c947b61)](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)
 
+[![image](https://github.com/user-attachments/assets/02a6ca37-97e3-4e9d-95ba-6bb46d0c1bf7)](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox)
+
+
 
 ## 🛠️ Sobre o Projeto
 
@@ -41,6 +44,8 @@ Além de criar uma página web, o curso reforçou a importância de:
 Este projeto foi uma ótima oportunidade para colocar em prática os fundamentos de **HTML e CSS**, ajudando a construir uma base sólida para o desenvolvimento web. Ao aplicar essas técnicas, posso criar páginas responsivas e bem estruturadas. 🌐
 
 [![image](https://github.com/user-attachments/assets/30c73936-8435-41c3-a2d1-df3696029c99)](https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-ambiente-arquivos-tags/certificate)
+[![image](https://github.com/user-attachments/assets/de5df805-c506-4191-9900-62442d959ba9)](https://cursos.alura.com.br/user/kauemonteiro09/course/html-css-classes-posicionamento-flexbox/certificate)
+
 
 
 
