@@ -20,7 +20,7 @@ Neste curso, criei uma página web do zero, aplicando conceitos fundamentais de 
 - 🎨 **Estilização**: Aprendi a aplicar efeitos de CSS, como alteração de cores, arredondamento de bordas, importação de fontes, além de como estilizar textos e ícones.
 - 🖼️ **Design com Figma**: Utilização do Figma para prototipar e planejar o design da página antes da implementação, garantindo uma interface agradável e funcional.
 
-[![image](https://github.com/user-attachments/assets/a080fcf8-b85d-471a-96cd-f32df96e6f40)](https://alura-portfolio-topaz.vercel.app/)
+[![image](https://github.com/user-attachments/assets/a080fcf8-b85d-471a-96cd-f32df96e6f40)](https://01-html-css-portfolio-1.vercel.app/)
 
 ## 💻 Tecnologias Utilizadas
 
